@@ -1,6 +1,4 @@
-// Imports the express Node module.
 var express = require('express');
-// Creates an Express server.
 var app = express();
 
 

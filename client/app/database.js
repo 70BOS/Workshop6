@@ -104,6 +104,7 @@ var initialData = {
     }
   }
 };
+//newline lol
 
 var data = JSON.parse(localStorage.getItem('facebook_data'));
 if (data === null) {
